@@ -1,0 +1,519 @@
+# Translation of Themes - Total in Japanese
+# This file is distributed under the same license as the Themes - Total package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-17 05:31:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Total\n"
+
+#. Theme Name of the plugin/theme
+msgid "Total"
+msgstr "Total"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: templates/home-template.php:399
+msgid "Detail"
+msgstr "詳細"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:40
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-search.php:22 template-parts/content-summary.php:43
+#: templates/home-template.php:157 templates/home-template.php:605
+msgid "Read More"
+msgstr "もっと読む"
+
+#: template-parts/content-page.php:16 template-parts/content-single.php:16
+#: template-parts/content.php:47
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/total-functions.php:232
+msgid "Page"
+msgstr "ページ"
+
+#: inc/total-functions.php:129
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/total-functions.php:128
+msgid "Articles Posted by %s"
+msgstr "投稿者: %s"
+
+#: inc/total-functions.php:127
+msgid "Posts Tagged \"%s\""
+msgstr "「%s」タグの付いた投稿"
+
+#: inc/total-functions.php:126
+msgid "Search Results for \"%s\" Query"
+msgstr "「%s」の検索結果"
+
+#: inc/total-functions.php:125
+msgid "Archive for \"%s\""
+msgstr "%s のアーカイブ"
+
+#: inc/total-functions.php:124
+msgid "Archive by Category \"%s\""
+msgstr "「%s」カテゴリーのアーカイブ"
+
+#: inc/total-functions.php:123
+msgid "Home"
+msgstr "ホーム"
+
+#. translators: 1: comment date, 2: comment time
+#: inc/total-functions.php:102
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/total-functions.php:88
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/template-tags.php:74 inc/total-functions.php:90
+#: template-parts/content-page.php:23
+msgid "Edit"
+msgstr "編集"
+
+#: inc/template-tags.php:70
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:70
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/template-tags.php:64
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: inc/template-tags.php:58
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62 inc/template-tags.php:86
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:36 inc/template-tags.php:70
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:34
+msgid " Comments"
+msgstr "コメント"
+
+#: inc/template-tags.php:32
+msgid "No Comments"
+msgstr "コメントはまだありません"
+
+#: inc/template-tags.php:24
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者 %s"
+
+#: inc/customizer.php:1537
+msgid "Remove all images"
+msgstr "すべての画像を削除"
+
+#: inc/customizer.php:1534
+msgid "Upload"
+msgstr "アップロード"
+
+#: inc/customizer.php:1468
+msgid "Recommended Image Size: 1800X800px"
+msgstr "推奨画像サイズ: 1800X800px"
+
+#: inc/customizer.php:1449
+msgid "Button 2 Link"
+msgstr "ボタン2 リンク"
+
+#: inc/customizer.php:1431
+msgid "Button 2 Text"
+msgstr "ボタン2 テキスト"
+
+#: inc/customizer.php:1413
+msgid "Button 1 Link"
+msgstr "ボタン1 リンク"
+
+#: inc/customizer.php:1395
+msgid "Button 1 Text"
+msgstr "ボタン1 テキスト"
+
+#: inc/customizer.php:1343
+msgid "Call To Action Section"
+msgstr "Call To Action セクション"
+
+#: inc/customizer.php:1334
+msgid "Upload Clients Logos"
+msgstr "クライアントのロゴをアップロード"
+
+#: inc/customizer.php:1261
+msgid "Clients Logo Section"
+msgstr "クライアントロゴセクション"
+
+#: inc/customizer.php:1231
+msgid "Number of Posts to show"
+msgstr "表示する投稿数"
+
+#: inc/customizer.php:1157
+msgid "Blog Section"
+msgstr "ブログセクション"
+
+#: inc/customizer.php:1148
+msgid "Select the Pages"
+msgstr "ページを選択"
+
+#: inc/customizer.php:1128
+msgid "Testimonial"
+msgstr "お客様の声"
+
+#: inc/customizer.php:1054
+msgid "Testimonial Section"
+msgstr "お客様の声セクション"
+
+#: inc/customizer.php:1044
+msgid "Counter Icon"
+msgstr "カウンターのアイコン"
+
+#: inc/customizer.php:1024
+msgid "Counter Value"
+msgstr "カウンター値"
+
+#: inc/customizer.php:989
+msgid "Counter"
+msgstr "カウンター"
+
+#: inc/customizer.php:967
+msgid "Recommended Image Size: 1800X400px"
+msgstr "推奨画像サイズ: 1800X400px"
+
+#: inc/customizer.php:964
+msgid "Upload Image"
+msgstr "画像のアップロード"
+
+#: inc/customizer.php:947
+msgid "Section Background"
+msgstr "セクション背景"
+
+#: inc/customizer.php:875
+msgid "Counter Section"
+msgstr "カウンターセクション"
+
+#: inc/customizer.php:866
+msgid "Linkedin Url"
+msgstr "Linkedin URL"
+
+#: inc/customizer.php:848
+msgid "Google Plus Url"
+msgstr "Google+ URL"
+
+#: inc/customizer.php:830
+msgid "Twitter Url"
+msgstr "Twitter URL"
+
+#: inc/customizer.php:812
+msgid "Facebook Url"
+msgstr "Facebook URL"
+
+#: inc/customizer.php:794
+msgid "Team Member Designation"
+msgstr "チームメンバーの指定"
+
+#: inc/customizer.php:759
+msgid "Team Member "
+msgstr "チームメンバー"
+
+#: inc/customizer.php:685
+msgid "Team Section"
+msgstr "チームセクション"
+
+#: inc/customizer.php:676
+msgid "Recommended Image Size: 770X650px"
+msgstr "推奨画像サイズ: 770X650px"
+
+#: inc/customizer.php:657
+msgid "Left Image"
+msgstr "左画像"
+
+#: inc/customizer.php:599
+msgid "Service Page "
+msgstr "サービスページ"
+
+#: inc/customizer.php:524
+msgid "Service Section"
+msgstr "サービスセクション"
+
+#: inc/customizer.php:512
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer.php:495
+msgid "Portfolio Category"
+msgstr "ポートフォリオのカテゴリー"
+
+#: inc/customizer.php:422
+msgid "Portfolio Section"
+msgstr "ポートフォリオセクション"
+
+#: inc/customizer.php:411 inc/customizer.php:638
+msgid "FontAwesome Icon"
+msgstr "FontAwesome アイコン"
+
+#: inc/customizer.php:373
+msgid "Featured Page "
+msgstr "注目ページ"
+
+#: inc/customizer.php:353 inc/customizer.php:476 inc/customizer.php:578
+#: inc/customizer.php:739 inc/customizer.php:929 inc/customizer.php:1109
+#: inc/customizer.php:1211 inc/customizer.php:1315 inc/customizer.php:1378
+msgid "Sub Title"
+msgstr "サブタイトル"
+
+#: inc/customizer.php:318 inc/customizer.php:441 inc/customizer.php:543
+#: inc/customizer.php:704 inc/customizer.php:894 inc/customizer.php:1073
+#: inc/customizer.php:1176 inc/customizer.php:1280
+msgid "Section Title & Sub Title"
+msgstr "セクションタイトル & サブタイトル"
+
+#: inc/customizer.php:299
+msgid "Featured Section"
+msgstr "注目セクション"
+
+#: inc/customizer.php:288
+msgid "Replace Image by widget"
+msgstr "ウィジェットによるイメージの置き換え"
+
+#: inc/customizer.php:269
+msgid "Recommended Image Size: 500X600px"
+msgstr "推奨画像サイズ: 500X600px"
+
+#: inc/customizer.php:250
+msgid "Right Image"
+msgstr "右画像"
+
+#: inc/customizer.php:230
+msgid "Percentage"
+msgstr "パーセント"
+
+#: inc/customizer.php:212 inc/customizer.php:336 inc/customizer.php:459
+#: inc/customizer.php:561 inc/customizer.php:722 inc/customizer.php:912
+#: inc/customizer.php:1007 inc/customizer.php:1091 inc/customizer.php:1194
+#: inc/customizer.php:1298 inc/customizer.php:1361
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer.php:194
+msgid "Progress Bar "
+msgstr "プログレスバー"
+
+#: inc/customizer.php:156
+msgid "About Us Section"
+msgstr "About Us セクション"
+
+#: inc/customizer.php:146
+msgid "Note:"
+msgstr "注:"
+
+#: inc/customizer.php:126 inc/customizer.php:175 inc/customizer.php:391
+#: inc/customizer.php:618 inc/customizer.php:777
+msgid "Select a Page"
+msgstr "ページを選択"
+
+#: inc/customizer.php:108
+msgid "Slider "
+msgstr "スライダー"
+
+#: inc/customizer.php:86
+msgid "Home Slider"
+msgstr "ホームスライダー"
+
+#: inc/customizer.php:77
+msgid "Home Sections"
+msgstr "ホーム セクション"
+
+#: inc/customizer.php:69
+msgid "Colors"
+msgstr "色"
+
+#: inc/customizer.php:63 inc/customizer.php:1465
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer.php:57
+msgid "Site Logo/Title/Tagline"
+msgstr "サイトロゴ / タイトル / キャッチコピー"
+
+#: inc/customizer.php:52
+msgid "Your theme supports a static front page."
+msgstr "テーマは固定フロントページをサポートしています。"
+
+#: inc/customizer.php:50
+msgid "Static Front Page"
+msgstr "固定フロントページ"
+
+#: inc/customizer.php:43
+msgid "General Settings"
+msgstr "基本設定"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:211
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:195
+msgctxt "Pontano Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:167
+msgid "Footer Four"
+msgstr "フッター4"
+
+#: functions.php:157
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:147
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: functions.php:139 functions.php:149 functions.php:159 functions.php:169
+msgid "Add widgets here to appear in your Footer."
+msgstr "フッターに表示させるにはここにウィジェットを追加してください。"
+
+#: functions.php:137
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:129
+msgid "Add widgets here to appear in your sidebar of shop page."
+msgstr "ショップページのサイドバーに表示させるにはここにウィジェットを追加してください。"
+
+#: functions.php:127
+msgid "Shop Sidebar"
+msgstr "ショップサイドバー"
+
+#: functions.php:119
+msgid "Add widgets here to appear in your sidebar."
+msgstr "サイドバーに表示させるにはここにウィジェットを追加してください。"
+
+#: functions.php:117
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:56
+msgid "%1$s by %2$s"
+msgstr "%1$s by %2$s"
+
+#: footer.php:54
+msgid "WordPress Theme"
+msgstr "WordPress テーマ"
+
+#: comments.php:85
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Web サイト"
+
+#: comments.php:75
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:71
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: archive.php:46 index.php:47 search.php:42
+msgid "Next"
+msgstr "次"
+
+#: archive.php:45 index.php:46 search.php:41
+msgid "Prev"
+msgstr "前へ"
+
+#: 404.php:20
+msgid "404"
+msgstr "404"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿ページが見つかりません。"
+
+#: 404.php:12
+msgid "404 Error"
+msgstr "404エラー"
+
+#. Author URI of the plugin/theme
+msgid "http://hashthemes.com"
+msgstr "http://hashthemes.com"
+
+#. Author of the plugin/theme
+msgid "Hash Themes"
+msgstr "Hash Themes"
+
+#. Theme URI of the plugin/theme
+msgid "http://hashthemes.com/wordpress-theme/total/"
+msgstr "http://hashthemes.com/wordpress-theme/total/"
